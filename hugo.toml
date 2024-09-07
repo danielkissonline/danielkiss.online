@@ -1,0 +1,11 @@
+baseURL = 'https://danielkiss.online/'
+languageCode = 'hu-hu'
+title = 'Kiss Dániel'
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "rólam"
+    url = "/rolam"
+    weight = 10
