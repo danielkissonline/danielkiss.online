@@ -5,7 +5,7 @@ title = 'Kiss Dániel'
 [menu]
 
   [[menu.main]]
-    identifier = "about"
-    name = "rólam"
-    url = "/rolam"
+    identifier = "jegyzetek"
+    name = "jegyzetek"
+    url = "/jegyzetek"
     weight = 10
