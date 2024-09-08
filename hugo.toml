@@ -9,3 +9,9 @@ title = 'Kiss Dániel'
     name = "jegyzetek"
     url = "/jegyzetek"
     weight = 10
+
+  [[menu.main]]
+    identifier = "teszt"
+    name = "teszt"
+    url = "teszt"
+    weight = 20

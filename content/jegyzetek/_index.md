@@ -1,6 +1,7 @@
 ---
-title: Órai jegyzetek
+title: Középiskolai jegyzetek
 layout: single
 ---
 
-- [Földrajz](foldrajz)
+### [Biológia](biologia)
+### [Földrajz](foldrajz)
